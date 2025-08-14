@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Yadav</h1>
 <h3 align="center">Coding in Python, Java & Web | Passionate About Clean UI and Smart Logic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan623-web&label=Profile%20views&color=0e75b6&style=flat" alt="rohan623-web" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan623-web" alt="rohan623-web" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Next.js, Flask APIs, and MonGoDB**
 
