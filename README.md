@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently building a ride-booking web app for real-world use — ZippGo.
 
-- 🌱 I’m currently learning **Next.js, Flask APIs, and Supabase**
+  
 
 
 
