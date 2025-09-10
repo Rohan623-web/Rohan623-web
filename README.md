@@ -14,7 +14,7 @@
 
 
 
-- 📫 How to reach me ** **
+- 📫 How to reach me **yadavrohan1629@gmail.com**
 
 - ⚡ Fun fact **I once debugged code at 2 AM and fixed it by adding just a semicolon! 😄**
 
